@@ -1,0 +1,21 @@
+home text{
+    <h1>Legal Counsels for your business</h1>
+    <p>we help business navigate the legal landscape and grow their operations.</p>
+}
+
+about text{
+    <h1>We take care of our clients</h1>
+    <p>At our law firm, we understand that dealing with legal issues can be stressful. Thats why we are committed to taking care of our clients every step of the legal way.</p>
+    <p>Our team of experienced attorneys will work hard to ensure that your rights are protected and your best intersets are reprenested</p>
+}
+
+services text{
+    <h1><span>C</span>orporate law</h1>
+    <p>Corporate law is our main expenise. We have been doing this for almost 20 years. We will help you with everything related to your corporation and business</p>
+
+    <h1><span>C</span>ommercial law</h1>
+    <p>Do you need help with the legal aspects of a trade? Do you want us to create and manage your contracts? We are here to help you in that.</p>
+
+    <h1><span>T</span>ax law</h1>
+    <p>Taxes, it is hard to understand everything about them. Don't Worry. We are always standing by your side to ensure that everything is settled</p>
+}
